@@ -1,1 +1,6 @@
-# Amazon-Reviews-Sentiment-Analysis
+# Amazon-Reviews-Sentiment-Analysis  
+This project analyzes Amazon product reviews using machine learning techniques to classify customer feedback as positive, negative, or neutral. By understanding customer sentiment, businesses can make data-driven decisions and enhance their products.
+The methodology involves data cleaning, exploratory **data analysis, N-gram analysis, stemming, TF-IDF encoding, and model-building**. The dataset, obtained from Kaggle, includes ratings and sentence reviews. Natural Language Processing (NLP) techniques are employed to analyze the sentiment of the reviews.
+Key findings from exploratory data analysis reveal patterns and trends in the data, such as the **relationship between positive reviews and helpful rate, the temporal variation in positive reviews, and the distribution of review counts. N-gram analysis identifies common words and phrases in different sentiment categories.**
+The project utilizes classification models like Logistic Regression, Decision Tree Classifier, KNN Classifier, Support Vector Machine Classifier, and Naïve Bayes to classify sentiment. Cross-validation is employed to identify the best performing model.
+For more details, refer to the project report "Amzon_reviews_Report.pdf" provided in this repository.
